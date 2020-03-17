@@ -1,0 +1,239 @@
+﻿{
+    "Data": [
+        // Always increase this number by 1.
+        //"id": 0,
+
+        // The name of the monumnet, type between the "".
+        //"name": "Het Princessehof",
+
+        // The name of the maker, type between the "".
+        //"maker": "Coulon",
+
+        // The description of the monumnet, type between the "".
+        //"description": "Het Princessehof werd in 1731 aangekocht door de weduwe van Johan Willem Friso van Nassau-Dietz Gemaakt door Coulon in 1693 gebouwd herenhuis 19de-eeuws wijnpakhuis en de 17de-eeuwse Stadhouderlijke Rijschool zijn onderdeel van het gebouw.",
+
+        // The name of the photo file, type between the "", no underscores or extension names like (png, jpg).
+        //"photoName": "test",
+
+        // The cost of the monument.
+        //"cost": 100,
+
+        // Is this for youth.
+        //"forYouth": false,
+
+        // Is this for elder.
+        //"forElder": false,
+
+        // Is this card real true or false.
+        //"isReal": true
+
+
+        //Copy the folowing for ease of use remember to remove te // at the front of the line.
+
+        //{
+        //    "id": ,
+        //    "name": "",
+        //    "maker": "",
+        //    "buildyear": "",
+        //    "description": "",
+        //    "photoName": "",
+        //    "cost": ,
+        //    "forYouth": true false,
+        //    "forElder": true false,
+        //    "isReal": true false
+        //},
+
+
+        // remove the komma at the end if its the last entry.
+
+
+        {
+            "id": 1,
+            "name": "Pier Pander museum",
+            "maker": "J.M. van der Meij",
+            "buildyear": "1924",
+            "description": "Pander was de zoon van een arme binnenschipper was een Nederlands beeldhouwer en ontwerper van medailles. \n \nWas het eerste museum in Nederland dat aan één kunstenaar gewijd werd.",
+            "photoName": "PierPanderMuseum",
+            "cost": 200,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": true
+        },
+        {
+            "id": 2,
+            "name": "De Koerierster",
+            "maker": "Catherina Francisca (Tineke)",
+            "buildyear": "1981",
+            "description": "Een bekende koetsierder was Esmée van Eeghen, schuilnaam ‘Sjoerdje’.",
+            "photoName": "DeKoerierster",
+            "cost": 100,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": true
+        },
+        {
+            "id": 3,
+            "name": "Het Princessehof",
+            "maker": "Coulom",
+            "buildyear": "1693",
+            "description": "Het 19de-eeuws wijnpakhuis en de 17de-eeuwse Stadhouderlijke Rijschool zijn onderdeel van het gebouw.",
+            "photoName": "HetPrincessehof",
+            "cost": 300,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": false
+        },
+        {
+            "id": 4,
+            "name": "Het Love monument",
+            "maker": "Jaume Plensa",
+            "buildyear": "2019",
+            "description": "Dit is een van de 11 fonteinen van de elf steden in Friesland.",
+            "photoName": "HetLoveMonument",
+            "cost": 200,
+            "forYouth": true,
+            "forElder": false,
+            "isReal": false
+        },
+        {
+            "id": 5,
+            "name": "Omsk",
+            "maker": "Machiel Braaksma",
+            "buildyear": "2003",
+            "description": "”t Is avond in Siberie en nergens is een leeuw’. \n \nDe Leeuw verwijst naar de stad Leeuwarden",
+            "photoName": "Omsk",
+            "cost": 100,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": true
+        },
+        {
+            "id": 103,
+            "name": "Het Princehof",
+            "maker": "Coulon",
+            "buildyear": "1693",
+            "description": "Het 19de-eeuws wijnpakhuis en de 17de-eeuwse Stadhouderlijke Rijschool zijn onderdeel van het gebouw.",
+            "photoName": "HetPrincessehof",
+            "cost": 300,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": false
+        },
+        {
+            "id": 104,
+            "name": "Het Love monument",
+            "maker": "Jaume Plensa",
+            "buildyear": "2018",
+            "description": "Dit is een van de 11 fonteinen van de elf steden in Friesland.",
+            "photoName": "HetLoveMonument",
+            "cost": 200,
+            "forYouth": true,
+            "forElder": false,
+            "isReal": true
+        },
+        {
+            "id": 106,
+            "name": "Wilhelmina lindeboom",
+            "maker": " H.H. Kramer en T. van der Laars",
+            "buildyear": "1890",
+            "description": "“Ter Herinneringaan de Troonsbestijging van H.M. Koningin Wilhelmina.",
+            "photoName": "WilhelminaLindeboom",
+            "cost": 100,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": false
+        },
+        {
+            "id": 107,
+            "name": "Wol forbûke net forslein",
+            "maker": "Auke Hettema",
+            "buildyear": "1955",
+            "description": "“Verzetsmonument in de prinsentuin.\n \nDe mannen symboliseren samen de steun van het ene deel van de bevolking aan het andere deel.",
+            "photoName": "WolForbukeNetForslein",
+            "cost": 100,
+            "forYouth": false,
+            "forElder": true,
+            "isReal": true
+        },
+        {
+            "id": 108,
+            "name": "De Kandelarij",
+            "maker": "Bartholomeus Janszoon",
+            "buildyear": "1566",
+            "description": "“in opdracht van koning Filip II.",
+            "photoName": "DeKanselarij",
+            "cost": 200,
+            "forYouth": false,
+            "forElder": false,
+            "isReal": false
+        },
+        {
+            "id": 109,
+            "name": "Teddy Trooper",
+            "maker": "Flying Fortress",
+            "buildyear": "2019",
+            "description": "“Het bevind zich op het oude Aegon gebouw.\n \nJe kunt een Teddy Trooper zien, die het symbool is voor de kunstenaar.",
+            "photoName": "TeddyTrooper",
+            "cost": 100,
+            "forYouth": true,
+            "forElder": false,
+            "isReal": true
+        }
+    ],
+    "BookData": [
+        {
+            "id": 1,
+            "name": "Pier Pander museum",
+            "maker": "J.M. van der Meij",
+            "buildyear": "1924"
+        },
+        {
+            "id": 2,
+            "name": "De koerierster",
+            "maker": "Catherina Francisca (Tineke)",
+            "buildyear": "1981"
+        },
+        {
+            "id": 3,
+            "name": "Het Princessehof",
+            "maker": "Coulon",
+            "buildyear": "1693"
+        },
+        {
+            "id": 4,
+            "name": "Het Love monument",
+            "maker": "Jaume Plensa",
+            "buildyear": "2018"
+        },
+        {
+            "id": 5,
+            "name": "Omsk",
+            "maker": "Machiel Braaksma",
+            "buildyear": "2003"
+        },
+        {
+            "id": 6,
+            "name": "Wilhelmina lindeboom",
+            "maker": "H.H. Kramer en T. van der Laars",
+            "buildyear": "1898"
+        },
+        {
+            "id": 7,
+            "name": "Wol forbûke net forslein",
+            "maker": "Auke Hettema",
+            "buildyear": "1955"
+        },
+        {
+            "id": 8,
+            "name": "De Kanselarij",
+            "maker": "Bartholomeus Janszoon",
+            "buildyear": "1566"
+        },
+        {
+            "id": 9,
+            "name": "Teddy Trooper",
+            "maker": "Flying Fortress",
+            "buildyear": "2019"
+        }
+    ]
+}
